@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DM_GARG_03</string>
+    <string name="metros">Metros:</string>
+    <string name="pies">Pies:</string>
+    <string name="valor_inicial">0</string>
+    <string name="convertir_a_pies">Convertir a Pies</string>
+    <string name="convertir_a_metros">Convertir a Metros</string>
+</resources>
